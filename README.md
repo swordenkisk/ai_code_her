@@ -220,7 +220,6 @@ See [LICENSE](./LICENSE) for full details.
 > Inventor | AI Researcher | Software Architect
 
 🔗 GitHub: https://github.com/swordenkisk
-📦 Also see: [In3Pro](https://github.com/swordenkisk/In3Pro) — Claude-only mobile edition
 
 ---
 
