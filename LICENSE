@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 swordenkisk
+Copyright (c) 2026 swordenkisk (https://github.com/swordenkisk)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,55 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+INTELLECTUAL PROPERTY NOTICE
+===============================================================================
+
+Project Name    : ai_code_her
+Original Author : swordenkisk
+GitHub          : https://github.com/swordenkisk
+Created         : March 2026
+Repository      : https://github.com/swordenkisk/ai_code_her
+
+Related Project : In3Pro (https://github.com/swordenkisk/In3Pro)
+                  Claude-only mobile edition by the same author.
+
+-------------------------------------------------------------------------------
+
+ORIGINAL CONCEPT STATEMENT
+
+The concept, architecture, and implementation of ai_code_her — specifically:
+
+  - A unified multi-provider AI coding assistant environment for Android
+  - Lightweight Termux-based client connecting to multiple AI APIs simultaneously
+  - A single "ai" command switcher to toggle between AI providers seamlessly
+  - Shared project workspace and unified HTTP server bridge for all AI providers
+  - Zero local model requirement — API-only architecture on mobile
+
+is an original invention by swordenkisk, conceived and developed in March 2026.
+
+-------------------------------------------------------------------------------
+
+THIRD-PARTY COMPONENTS
+
+The following tools are integrated by ai_code_her and retain their own licenses:
+
+  Claude Code       — © Anthropic, PBC                   (Proprietary)
+  OpenAI Python SDK — © OpenAI                            (MIT)
+  Google GenAI SDK  — © Google LLC                        (Apache 2.0)
+  MistralAI SDK     — © Mistral AI                        (Apache 2.0)
+  Termux            — © Termux Contributors               (GPL-3.0)
+  Node.js           — © OpenJS Foundation                 (MIT)
+  Python            — © Python Software Foundation        (PSF License)
+  Oh My Zsh         — © Robby Russell & Contributors      (MIT)
+
+-------------------------------------------------------------------------------
+
+Any redistribution, fork, or derivative work must:
+  1. Retain this copyright and intellectual property notice in full
+  2. Clearly attribute the original author: swordenkisk
+  3. Not claim original authorship of the core concept or architecture
+
+===============================================================================
